@@ -7,3 +7,4 @@ Features:
 Generative AI models for text and image creation
 Gradio interface for easy testing and deployment
 Example demos and tutorials
+PS: Kindly change your runtime to T4 GPU if you are using colab.
